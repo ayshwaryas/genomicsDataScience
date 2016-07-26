@@ -1,7 +1,6 @@
 ---
 layout: page
-title : Archive
-header : Post Archive
+title : Topics
 group: navigation
 ---
 {% include JB/setup %}

@@ -1,5 +1,5 @@
 ---
-title: Preparing a succesful dbGAP application
+title: Steps to a succesful dbGAP application
 author: ayshwarya subramanian
 layout: post
 comments: true
