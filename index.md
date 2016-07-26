@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Hello World!
+title: Genomics Data Science 
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+A sharing space for notes, tips and documentation on navigating genomics data. 
 
+# Finding Genomics Data 
+
+## Public Datasets
+## dbGAP authorized data 
 
