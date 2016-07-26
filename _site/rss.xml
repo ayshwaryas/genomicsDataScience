@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Notes on genomic data science</title>
+        <description>Notes on genomic data science - Ayshwarya Subramanian</description>
+        <link>http://ayshwaryas.github.io/genomicsDataScience</link>
+        <atom:link href="http://ayshwaryas.github.io/genomicsDataSciencenil" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 26 Jul 2016 10:03:57 -0400</lastBuildDate>
+        <pubDate>Tue, 26 Jul 2016 10:03:57 -0400</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Preparing a succesful dbGAP application</title>
+                <description>&lt;p&gt;The NIH/NCBI provides very useful documentation. These are my quick notes after two dbGAP applications that got approved in the first attempt.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do codeblocks like this https://help.github.com/articles/creating-and-highlighting-code-blocks/&lt;/li&gt;
+  &lt;li&gt;Put all images in the public/ directory or point to them on a website where they are permanent&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>http://ayshwaryas.github.io/genomicsDataScience/2016/07/25/Preparing-a-successful-dbGAP-application</link>
+                <guid>http://ayshwaryas.github.io/genomicsDataScience/2016/07/25/Preparing-a-successful-dbGAP-application</guid>
+                <pubDate>Mon, 25 Jul 2016 00:00:00 -0400</pubDate>
+        </item>
+
+
+</channel>
+</rss>
