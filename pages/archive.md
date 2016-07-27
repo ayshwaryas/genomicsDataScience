@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Topics
+title : "Topics"
 group: navigation
 ---
 {% include JB/setup %}
